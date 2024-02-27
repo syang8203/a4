@@ -1,4 +1,4 @@
-## DSCI 310 individual assignment on Quarto reproducible reports using R
+## DSCI 310 individual assignment on Quarto reproducible reports using Python
 
 This is a template repository 
 for the individual assignment on Quarto reproducible reports using Python
